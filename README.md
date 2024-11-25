@@ -8,6 +8,9 @@ This folder contains multiple scripts for a project related to teaching evaluati
 
 *Note*: This project is still preliminary. 
 
+## Stata sample
+
+This code preprocesses CHNS CHNS data by UNC Chapel Hill and Chinese CDC and the Chinese national microsensus. It cleans the data, generate variables, and conduct regression analysis. It was written during the period when I was an RA of Professor David Ong. 
 
 # Q&A
 
