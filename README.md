@@ -8,6 +8,10 @@ This folder contains multiple scripts for a project related to teaching evaluati
 
 *Note*: This project is still preliminary. 
 
+## R Sample
+
+This is the code for a “ranking timing of trades” method that focused on ranking cumulative ratios (e.g., $CARR$) to detect systematic earliness and lateness in persistent insider trading. 
+
 ## Stata sample
 
 This code preprocesses CHNS CHNS data by UNC Chapel Hill and Chinese CDC and the Chinese national microsensus. It cleans the data, generate variables, and conduct regression analysis. It was written during the period when I was an RA of Professor David Ong. 
