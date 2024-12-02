@@ -14,11 +14,7 @@ This script includes code for a method that ranks the timing of trades. Specific
 
 ## Stata sample
 
-This script was for rocessing CHNS data (from UNC Chapel Hill and the Chinese CDC) and the Chinese National Microsensus. The code focuses on data cleaning, variable generation, and regression analysis. This script was developed during my time as a research assistant for Professor David Ong. 
-
-## Julia sample 
-
-This script analyzes the distributions of individual ratings stored in JSONL files. It plots the distributions, computes the Wasserstein distance, and performs bootstrapping to generate confidence intervals for distributional differences.
+This code preprocesses CHNS CHNS data by UNC Chapel Hill and Chinese CDC and the Chinese national microsensus. It cleans the data, generate variables, and conduct regression analysis. It was written during the period when I was an RA of Professor David Ong. 
 
 # Q&A
 
