@@ -24,7 +24,7 @@ This script analyzes distributions of individual rating stored in JSONL files. I
 
 1. **Question**: What is your proficiency of each programming language?
 
-   **Answer**: I am highly proficient in Python, R, and Stata. Additionally, I have intermediate experience with MATLAB and Julia, with stronger fluency in MATLAB.
+   **Answer**: I am highly proficient in Python, R, and Stata. Additionally, I have intermediate experience with MATLAB and Julia, with stronger fluency in Julia.
 
 1. **Question**: What other languages, computer programs, or software, do you have experience in?
 
