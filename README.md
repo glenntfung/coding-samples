@@ -1,38 +1,42 @@
 # About this repo
 
-This repo contains several coding samples. Below is a summary of these scripts. 
+Welcome! This repository showcases several coding samples that reflect my skills and experience across various programming languages and research domains. Below is an overview of the scripts included:
 
 ## Python sample 
 
-This folder contains multiple scripts for a project related to teaching evaluations, aiming to access course dilivery in terms of facial, verbal, and textual sentiment or emotions, among many other dimensions. The analysis used a mixture of API requesting, pre-trained models, as well as lexicon-based methods. 
+This folder contains scripts from a project related to teaching evaluations. The objective is to assess course delivery through facial, verbal, and textual sentiment or emotional analysis. The work combines API requests, pre-trained models, and lexicon-based methods.
 
-*Note*: This project is still preliminary. 
+> **Note**: This project is still preliminary. 
 
-## R Sample
+## R sample
 
-This is the code for a “ranking timing of trades” method that focused on ranking cumulative ratios (e.g., $CARR$) to detect systematic earliness and lateness in persistent insider trading. 
+This script includes code for a method that ranks the timing of trades. Specifically, it detects systematic earliness or lateness in persistent insider trading by ranking cumulative ratios (e.g., $CARR$). 
 
 ## Stata sample
 
-This code preprocesses CHNS CHNS data by UNC Chapel Hill and Chinese CDC and the Chinese national microsensus. It cleans the data, generate variables, and conduct regression analysis. It was written during the period when I was an RA of Professor David Ong. 
+This script was for rocessing CHNS data (from UNC Chapel Hill and the Chinese CDC) and the Chinese National Microsensus. The code focuses on data cleaning, variable generation, and regression analysis. This script was developed during my time as a research assistant for Professor David Ong. 
+
+## Julia sample 
+
+This script analyzes the distributions of individual ratings stored in JSONL files. It plots the distributions, computes the Wasserstein distance, and performs bootstrapping to generate confidence intervals for distributional differences.
 
 # Q&A
 
 1. **Question**: What is your proficiency of each programming language?
 
-   **Answer**: I am proficient in Python, R, and Stata. I have used MATLAB and Julia for several times, and my level is beyond introductory. I write MATLAB better than Julia. 
+   **Answer**: I am highly proficient in Python, R, and Stata. Additionally, I have intermediate experience with MATLAB and Julia, with stronger fluency in MATLAB.
 
 1. **Question**: What other languages, computer programs, or software, do you have experience in?
 
-   **Answer**: Here is a complete list I can think of. 
+   **Answer**: Here is a comprehensive list:
 
    * Data analysis and computation: Stata, R, Julia, Tableau, MATALB, VBA, SQL, Minitab, SPSS, Mathematica
    * General purpose: Python, C
    * Optimization: LINGO, NetLogo, Gephi
    * Typesetting: HTML, LaTeX (including TikZ), Mermaid, Visio, Microsoft 365
    * Others: Adobe PS/AU/LR/PR/AE, ImageJ
-   * R packages: `bayesplot`, `boot`, `BradleyTerry2`, `brms`, `BSBT`, `car`, `caret`, `causalTree`, `coda`, `data.table`, `dirichletprocess`, `dplyr`, `e1071`, `forecast`, `ggplot2`, `ggpubr`, `grf`, `haven`, `ISLR`, `ivreg`, `keras`, `lubridate`, `MASS`, `MatchIt`, `plm`, `prefmod`, `qvcalc`, `randomForest`, `readxl`, `rmarkdown`, `rstan`, `shiny`, `stringr`, `tidyr`, `tidyverse`, `xgboost`, `zoo`
-   * Python packages: `arviz`, `beautifulsoup4`, `causalml`, `cmath`, `collections`, `csv`, `datetime`, `deep-sort-realtime`, `deepface`, `distance`, `dlib`, `econml`, `ensurepip`, `estimate`, `faker`, `glob`, `graphviz`, `itertools`, `json`, `jupyter`, `keras`, `loss`, `math`, `matplotlib`, `mlxtend`, `moviepy`, `multiprocessing`, `near`, `networkx`, `nltk`, `numpy`, `numpy_financial`, `openpyxl`, `operator`, `os`, `pandas`, `pickle`, `pillow`, `pyaudioanalysis`, `pyarrow`, `pycocotools`, `pydub`, `pymc`, `pytorch`, `random`, `requests`, `SALib`, `scikit-learn`, `scipy`, `selenium`, `seaborn`, `speechbrain`, `stan`, `statsmodels`, `statistics`, `tensorflow`, `time`, `torchvision`, `torchaudio`, `transformers`, `ultralytics`, `whisper`, `xgboost`
+   * R packages: `bayesplot`, `boot`, `brms`, `caret`, `dplyr`, `ggplot2`, `grf`, `rstan`, `tidyverse`, `xgboost`, and many more.
+   * Python packages: `arviz`, `econml`, `deepface`, `pandas`, `scikit-learn`, `tensorflow`, `torch`, `transformers`, and many more.
    * APIs: Google speech-to-text, Face++, OpenPose, YOLO
 
 1. **Question**: Why are the themes of the code so diverse?
